@@ -12,3 +12,6 @@
 *.out
 
 bin
+*.swp
+*.swo
+*.swn
